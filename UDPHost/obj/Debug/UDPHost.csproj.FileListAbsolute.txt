@@ -1,0 +1,6 @@
+G:\Projects\VS\UDPHost\UDPHost\bin\Debug\UDPHost.pdb
+G:\Projects\VS\UDPHost\UDPHost\obj\Debug\UDPHost.csprojResolveAssemblyReference.cache
+G:\Projects\VS\UDPHost\UDPHost\obj\Debug\UDPHost.pdb
+G:\Projects\VS\UDPHost\UDPHost\bin\Debug\UDPHost.exe.config
+G:\Projects\VS\UDPHost\UDPHost\bin\Debug\UDPHost.exe
+G:\Projects\VS\UDPHost\UDPHost\obj\Debug\UDPHost.exe
